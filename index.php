@@ -26,7 +26,7 @@ require_once('navbar.php');
 
 4. Coding Offers Huge Career Flexibility
 
-5. Coding Teaches You To Depend on Yourself</p>
+</p>
   </div>
 </div>
 </div>
